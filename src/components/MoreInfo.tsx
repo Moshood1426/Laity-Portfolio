@@ -9,7 +9,7 @@ const MoreInfo = () => {
         <p className="more-info-subtitle">
           Let's help bring your amazing idea to life{" "}
         </p>
-        <p>📧 davidmoore1426@gmail.com</p>
+        <p>📧 bryantanksley@gmail.com</p>
       </div>
     </Wrapper>
   );

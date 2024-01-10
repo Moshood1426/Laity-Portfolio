@@ -1,15 +1,17 @@
 import React from "react";
 import Wrapper from "../assets/wrappers/Quizzal";
-import { Link } from "react-router-dom"
+import { Link } from "react-router-dom";
 //import register from "../assets/images/register.JPG";
 
 const Quizzal = () => {
   return (
     <Wrapper>
-      <Link className="back" to="/">{"<"} back</Link>
+      <Link className="back" to="/">
+        {"<"} back
+      </Link>
       <div className="header">
         <p className="sub-title">
-          📅 2022-04-11 - ⏱️ 17 mins read - ✍️ Written by David Moore
+          📅 2022-04-11 - ⏱️ 17 mins read - ✍️ Written by Bryan Tanksley
         </p>
         <h2 className="title">
           The Quizzal Project

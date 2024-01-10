@@ -9,7 +9,7 @@ const Architecture = () => {
       </Link>
       <div className="header">
         <p className="sub-title">
-          📅 2022-04-11 - ⏱️ 17 mins read - ✍️ Written by David Moore
+          📅 2022-04-11 - ⏱️ 17 mins read - ✍️ Written by Bryan Tanksley
         </p>
         <h2 className="title">Architecture to Software Dev</h2>
       </div>
