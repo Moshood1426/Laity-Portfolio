@@ -10,6 +10,7 @@ const MoreInfo = () => {
           Let's help bring your amazing idea to life{" "}
         </p>
         <p>📧 bryantanksley@gmail.com</p>
+        <p>📱 +1 (512) 256-4820</p>
       </div>
     </Wrapper>
   );
