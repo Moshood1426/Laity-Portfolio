@@ -9,8 +9,8 @@ const MoreInfo = () => {
         <p className="more-info-subtitle">
           Let's help bring your amazing idea to life{" "}
         </p>
-        <p>📧 bryantanksley@gmail.com</p>
-        <p>📱 +1 (512) 256-4820</p>
+        <p>📧 senghorlaity77@gmail.com</p>
+        <p>📱 +1 (860) 305-2551 </p>
       </div>
     </Wrapper>
   );

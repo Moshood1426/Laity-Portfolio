@@ -12,7 +12,7 @@ const Intro = () => {
           <img src={introImg} alt="coding-img" className="intro-img" />
         </div>
         <div className="intro-content-container">
-          <p className="sub-title">Hello👋 I'm Bryan Tanksley😊</p>
+          <p className="sub-title">Hello👋 I'm Laity Senghor😊</p>
           <h1>
             I'm a <span className="title">Software Developer...</span>
           </h1>
